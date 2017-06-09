@@ -2,3 +2,10 @@ body {
   background: #00CED1;
   font-family: 'Vibur', cursive;
 }
+
+.theMessage {
+  background: #0000FF;
+  font-family: 'Vibur', cursive;
+  height: 5em;
+  width: 10em;
+}
